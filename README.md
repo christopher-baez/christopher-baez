@@ -16,7 +16,4 @@ A Quote I Live By 📝
 
 Numbers have a fascinating way of revealing the truth, even when everything else might be a bit fuzzy. And that's what I'm here for: to discern, to analyze, and to present the untainted truths that data holds.
 
-Let's Add a Dash of Humor 😄
-
-They say Data Scientists are the new rock stars. Well, I may not play the guitar, but I sure can strum some strings... of code, that is!
 
